@@ -1,0 +1,6 @@
+{
+  "name": "BOEING TRIM",
+  "description": "Mobile-optimized Boeing aircraft load and trim balance calculation tool built by Radoan Rasel for US-Bangla Airlines with offline capability, MAC% CG envelope diagram, and stabilizer trim gauge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
